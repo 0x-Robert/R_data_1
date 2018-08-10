@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532578375198.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F31E42BD",
+    "lastKnownWriteTime" : 1532588584,
+    "last_content_update" : 1532951511851,
+    "path" : "~/Downloads/20180724/Rcode/ggplot_Part2.R",
+    "project_path" : "ggplot_Part2.R",
+    "properties" : {
+        "cursorPosition" : "96,0",
+        "scrollLine" : "83"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
